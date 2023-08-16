@@ -1,0 +1,32 @@
+body{
+    background-color: bisque;
+  }
+  
+  .text{
+    color: white;
+    font-size: 24px;
+    font-weight: 800;
+  }
+  
+  #div1{
+    width: 200px;
+    height: 200px;
+    background-color: blueviolet;
+    padding: 30px;
+    margin: 20px;
+    border: 20px solid black;
+  }
+  
+  #div2{
+    width: 300px;
+    height: 200px;
+    background-color: orange;
+    padding: 10px;
+    margin: 0 0 20px 0;
+  }
+  #div3{
+    width: 500px;
+    height: 200px;
+    background-color: green;
+    border: 100px solid black;
+  }
